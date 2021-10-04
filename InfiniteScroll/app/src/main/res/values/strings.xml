@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">InfiniteScroll</string>
+    <string name="video_link">https://www.dailymotion.com/video/%s</string>
 </resources>

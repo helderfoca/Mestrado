@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/helderfoca/Documents/GitHub/Mestrado/InfiniteScroll/app/src/main/res/layout/activity_bad.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/helderfoca/Documents/GitHub/Mestrado/InfiniteScroll/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/helderfoca/Documents/GitHub/Mestrado/InfiniteScroll/app/src/main/res/layout/recyclerview_progress_bar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/helderfoca/Documents/GitHub/Mestrado/InfiniteScroll/app/src/main/res/layout/video.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
